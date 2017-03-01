@@ -4,4 +4,7 @@ Usalo bajo supervisión de un profesional. Sólo es para que puedas hacerte una 
 
 
 El programa está hecho en wpf con sqlite y entity framework code first. Estoy aprendiendo wpf, mvvm, etc... Así que he intentado probar varias cosas que he ido viendo por internet. XAML, temas, MVVM, genéricos, comandos, interfaces ...
+
 MVVM sólo lo utilizo en las vistas auxiliares.
+
+Cualquier idea para mejorar el programa es bienvenida.
